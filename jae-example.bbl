@@ -1,12 +1,61 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem[{Kane \emph{et~al.}(2016)Kane, Healy, Ruxton \&
-  Jackson}]{kane2016body}
-Kane, A., Healy, K., Ruxton, G.D. \& Jackson, A.L. (2016) Body Size as a Driver
-  of Scavenging in Theropod Dinosaurs.
-\newblock \emph{The American Naturalist}, \textbf{187}.
+\bibitem[{Benton \emph{et~al.}(2007)Benton, Solan, Travis \&
+  Sait}]{benton2007microcosm}
+Benton, T.G., Solan, M., Travis, J.M. \& Sait, S.M. (2007) Microcosm
+  experiments can inform global ecological problems.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{22}, 516--521.
+
+\bibitem[{Buckling \emph{et~al.}(2009)Buckling, Maclean, Brockhurst \&
+  Colegrave}]{buckling2009beagle}
+Buckling, A., Maclean, R.C., Brockhurst, M.A. \& Colegrave, N. (2009) The
+  Beagle in a bottle.
+\newblock \emph{Nature}, \textbf{457}, 824--829.
+
+\bibitem[{Carpenter(1996)}]{carpenter1996microcosm}
+Carpenter, S.R. (1996) Microcosm experiments have limited relevance for
+  community and ecosystem ecology.
+\newblock \emph{Ecology}, \textbf{77}, 677--680.
+
+\bibitem[{Hebblewhite \emph{et~al.}(2005)Hebblewhite, White, Nietvelt,
+  McKenzie, Hurd, Fryxell, Bayley \& Paquet}]{hebblewhite2005human}
+Hebblewhite, M., White, C.A., Nietvelt, C.G., McKenzie, J.A., Hurd, T.E.,
+  Fryxell, J.M., Bayley, S.E. \& Paquet, P.C. (2005) Human activity mediates a
+  trophic cascade caused by wolves.
+\newblock \emph{Ecology}, \textbf{86}, 2135--2144.
+
+\bibitem[{Jessup \emph{et~al.}(2004)Jessup, Kassen, Forde, Kerr, Buckling,
+  Rainey \& Bohannan}]{jessup2004big}
+Jessup, C.M., Kassen, R., Forde, S.E., Kerr, B., Buckling, A., Rainey, P.B. \&
+  Bohannan, B.J. (2004) Big questions, small worlds: microbial model systems in
+  ecology.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{19}, 189--197.
+
+\bibitem[{McClean \emph{et~al.}(2015)McClean, McNally, Salzberg, Devine, Brown
+  \& Donohue}]{mcclean2015single}
+McClean, D., McNally, L., Salzberg, L.I., Devine, K.M., Brown, S.P. \& Donohue,
+  I. (2015) Single gene locus changes perturb complex microbial communities as
+  much as apex predator loss.
+\newblock \emph{Nature communications}, \textbf{6}.
+
+\bibitem[{Mittelbach \emph{et~al.}(1995)Mittelbach, Turner, Hall, Rettig \&
+  Osenberg}]{mittelbach1995perturbation}
+Mittelbach, G.G., Turner, A.M., Hall, D.J., Rettig, J.E. \& Osenberg, C.W.
+  (1995) Perturbation and resilience: a long-term, whole-lake study of predator
+  extinction and reintroduction.
+\newblock \emph{Ecology}, \textbf{76}, 2347--2360.
+
+\bibitem[{Monbiot(2013)}]{monbiot2013feral}
+Monbiot, G. (2013) \emph{Feral: searching for enchantment on the frontiers of
+  rewilding}.
+\newblock Penguin UK.
+
+\bibitem[{Soule \& Noss(1998)}]{soule1998rewilding}
+Soule, M. \& Noss, R. (1998) Rewilding and biodiversity: complementary goals
+  for continental conservation.
+\newblock \emph{Wild Earth}, \textbf{8}, 18--28.
 
 \end{thebibliography}
