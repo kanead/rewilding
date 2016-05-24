@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Kane \emph{et~al.}(2016)Kane, Healy, Ruxton \&
+  Jackson}]{kane2016body}
+Kane, A., Healy, K., Ruxton, G.D. \& Jackson, A.L. (2016) Body Size as a Driver
+  of Scavenging in Theropod Dinosaurs.
+\newblock \emph{The American Naturalist}, \textbf{187}.
+
+\end{thebibliography}
